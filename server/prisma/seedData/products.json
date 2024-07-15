@@ -1,0 +1,247 @@
+[
+  {
+    "productId": "d35623ee-bef6-42b2-8776-2f99f8bb4782",
+    "name": "Pinkscale Blazing Star",
+    "price": 456.04,
+    "rating": 2.25,
+    "stockQuantity": 124834
+  },
+  {
+    "productId": "8ac1ac77-7358-425e-be16-0bdde9f02e59",
+    "name": "Gila Milkvetch",
+    "price": 899.05,
+    "rating": 3.56,
+    "stockQuantity": 799402
+  },
+  {
+    "productId": "1afc136b-4d9f-4e8e-aace-8e1df908a404",
+    "name": "Rocky Mountain Zinnia",
+    "price": 264.37,
+    "rating": 3.23,
+    "stockQuantity": 842192
+  },
+  {
+    "productId": "af84cc12-4fea-4f58-aece-f2ce92ca9580",
+    "name": "Guadalupe Suncup",
+    "price": 555.93,
+    "rating": 4.09,
+    "stockQuantity": 236333
+  },
+  {
+    "productId": "86e3bb1c-2f5d-4774-98f3-4df7cddd0a0f",
+    "name": "Saline Phlox",
+    "price": 82.62,
+    "rating": 4.8,
+    "stockQuantity": 601208
+  },
+  {
+    "productId": "26b017c6-06d8-443f-9b4a-d6b1cee6f4c0",
+    "name": "Common Brighteyes",
+    "price": 435.44,
+    "rating": 0.27,
+    "stockQuantity": 124068
+  },
+  {
+    "productId": "440c9e80-6bf8-4eb3-b2d2-f81936d67de3",
+    "name": "Vermejo Phlox",
+    "price": 759.15,
+    "rating": 2.46,
+    "stockQuantity": 234525
+  },
+  {
+    "productId": "98255f4e-40a6-470f-89a5-0792729f8947",
+    "name": "Purple Marshlocks",
+    "price": 974.99,
+    "rating": 4.82,
+    "stockQuantity": 739009
+  },
+  {
+    "productId": "2a339fb2-f9f3-43bc-a85a-b217a0a38f12",
+    "name": "Hamatocaulis Moss",
+    "price": 639.9,
+    "rating": 1.17,
+    "stockQuantity": 754285
+  },
+  {
+    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
+    "name": "Wax Myrtle",
+    "price": 62.95,
+    "rating": 4.6,
+    "stockQuantity": 205240
+  },
+  {
+    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
+    "name": "Thladiantha",
+    "price": 699.0,
+    "rating": 1.65,
+    "stockQuantity": 399124
+  },
+  {
+    "productId": "fdf1ba3d-fa06-4ce5-90ff-d081c5d37176",
+    "name": "Common Tarweed",
+    "price": 899.61,
+    "rating": 2.39,
+    "stockQuantity": 196884
+  },
+  {
+    "productId": "afded6df-058f-477d-9878-e0e0b1d3dff3",
+    "name": "Smooth Phlox",
+    "price": 575.6,
+    "rating": 4.38,
+    "stockQuantity": 673658
+  },
+  {
+    "productId": "daa29167-82a7-474b-9687-b8b903e7ec69",
+    "name": "Lemmon's Beggarticks",
+    "price": 492.35,
+    "rating": 1.07,
+    "stockQuantity": 205143
+  },
+  {
+    "productId": "ccb83982-71f3-4497-bad8-7e64c6920dc6",
+    "name": "Globe Fimbry",
+    "price": 304.69,
+    "rating": 2.62,
+    "stockQuantity": 388596
+  },
+  {
+    "productId": "1936d406-e89e-40e4-bff7-1827532269d4",
+    "name": "Columbia Milkvetch",
+    "price": 845.15,
+    "rating": 2.21,
+    "stockQuantity": 631658
+  },
+  {
+    "productId": "c849a535-5f8b-47e3-889c-015693a644ac",
+    "name": "Girdlepod",
+    "price": 880.09,
+    "rating": 1.49,
+    "stockQuantity": 65457
+  },
+  {
+    "productId": "0c3e80ee-59b3-4fc4-b760-8b07acc2d3ae",
+    "name": "Lindley's Clerodendrum",
+    "price": 51.66,
+    "rating": 1.53,
+    "stockQuantity": 263383
+  },
+  {
+    "productId": "d8f5bee3-f3eb-4071-a124-6b857e0fd798",
+    "name": "Arizonia Dry Rock Moss",
+    "price": 746.88,
+    "rating": 4.71,
+    "stockQuantity": 616812
+  },
+  {
+    "productId": "8d15de86-0e4a-4414-9166-7a33610202d3",
+    "name": "Clamshell Orchid",
+    "price": 17.1,
+    "rating": 0.79,
+    "stockQuantity": 604774
+  },
+  {
+    "productId": "ea8fd0b9-c2d9-4d43-9c23-44cb99d079bb",
+    "name": "Fourleaf Mare's-tail",
+    "price": 905.04,
+    "rating": 3.71,
+    "stockQuantity": 909107
+  },
+  {
+    "productId": "25d01c80-bca1-4a00-b1d0-0fbd39ff9e89",
+    "name": "Simpson's Rosinweed",
+    "price": 184.41,
+    "rating": 1.98,
+    "stockQuantity": 953695
+  },
+  {
+    "productId": "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",
+    "name": "Lobelia",
+    "price": 163.6,
+    "rating": 0.81,
+    "stockQuantity": 341530
+  },
+  {
+    "productId": "000a8c23-5bca-436c-a216-4e747a94c511",
+    "name": "Yew Plum Pine",
+    "price": 196.27,
+    "rating": 1.6,
+    "stockQuantity": 967173
+  },
+  {
+    "productId": "c5b600dc-6bfb-492a-b335-c3cc8c707959",
+    "name": "Thimbleberry",
+    "price": 602.37,
+    "rating": 0.13,
+    "stockQuantity": 162208
+  },
+  {
+    "productId": "9d5fafbc-312b-47e8-ada1-283918f0c3b5",
+    "name": "Yellowturbans",
+    "price": 564.82,
+    "rating": 4.74,
+    "stockQuantity": 33021
+  },
+  {
+    "productId": "0114d5d4-ae48-46fa-b0ca-afe60eb88add",
+    "name": "Field Brome",
+    "price": 664.2,
+    "rating": 0.13,
+    "stockQuantity": 363992
+  },
+  {
+    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
+    "name": "Pentas",
+    "price": 685.1,
+    "rating": 1.5,
+    "stockQuantity": 635092
+  },
+  {
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "name": "Strigose Beard Lichen",
+    "price": 373.81,
+    "rating": 1.06,
+    "stockQuantity": 35383
+  },
+  {
+    "productId": "fcf2e432-62a3-4b6f-a34d-36e42a12272e",
+    "name": "Mad River Fleabane",
+    "price": 669.97,
+    "rating": 1.34,
+    "stockQuantity": 880242
+  },
+  {
+    "productId": "fc4c81e5-f1ac-40f5-8c6f-da3fbad5599d",
+    "name": "Chickenthief",
+    "price": 100.11,
+    "rating": 0.49,
+    "stockQuantity": 896782
+  },
+  {
+    "productId": "07238d8e-0037-4972-87ca-0df206ee3e42",
+    "name": "Palmleaf Poppymallow",
+    "price": 22.99,
+    "rating": 3.42,
+    "stockQuantity": 635344
+  },
+  {
+    "productId": "154b7860-23a2-4564-ad99-1745ab7122ef",
+    "name": "Guayanan Waterclover",
+    "price": 45.45,
+    "rating": 0.34,
+    "stockQuantity": 456487
+  },
+  {
+    "productId": "8d4bf814-65d4-4df4-84cc-68911d925fdf",
+    "name": "Emory's Acacia",
+    "price": 847.6,
+    "rating": 1.79,
+    "stockQuantity": 638956
+  },
+  {
+    "productId": "a52bf1bd-3d35-4cd2-849a-354e3952e2d2",
+    "name": "American Century Plant",
+    "price": 969.47,
+    "rating": 3.66,
+    "stockQuantity": 248630
+  }
+]
