@@ -58,6 +58,12 @@ cd inventory-management
 npm i
 ```
 
+- **Create Env File and Port 80:**
+
+```
+echo "PORT=80" > .env
+```
+
 - **Start the application:**
 
 ```
