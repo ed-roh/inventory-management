@@ -1,7 +1,8 @@
 # Build a Fullstack Inventory Management Dashboard
 
-Link to related video: https://www.youtube.com/watch?v=ddKQ8sZo_v8
 [![Tutorial Video](https://img.youtube.com/vi/ddKQ8sZo_v8/0.jpg)](https://www.youtube.com/watch?v=ddKQ8sZo_v8)
+
+Link to related video: https://www.youtube.com/watch?v=ddKQ8sZo_v8
 
 ## Tutorial
 
