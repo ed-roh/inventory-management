@@ -1,16 +1,6 @@
 # Build a Fullstack Inventory Management Dashboard
 
-[![Tutorial Video](https://img.youtube.com/vi/ddKQ8sZo_v8/0.jpg)](https://www.youtube.com/watch?v=ddKQ8sZo_v8)
-
-Link to related video: https://www.youtube.com/watch?v=ddKQ8sZo_v8
-
-## Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on my YouTube channel. It is highly suggested to watch the [tutorial video](https://www.youtube.com/watch?v=ddKQ8sZo_v8) as it includes detailed instructions on how to set up everything, including deploying AWS. This tutorial is designed for both beginners and experts.
-
-Join our [Discord community](https://discord.com/channels/1070200085440376872/1267499814678171698) for discussions about this specific app.
-
-## Tech Stack
+## Stack de Tecnologia
 
 - **Next JS**
 - **Tailwind**
