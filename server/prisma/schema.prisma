@@ -13,10 +13,18 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+enum Role {
+  ADMIN
+  SELLER
+  MANAGER
+  DEVELOPER
+}
+
 model Users {
   userId String @id
   name   String
   email  String
+  role Role?
 }
 
 model Products {
