@@ -35,6 +35,8 @@ model Products {
   stockQuantity Int
   Sales         Sales[]
   Purchases     Purchases[]
+
+  Categories Categories[]
 }
 // This is your Prisma schema file. With a data model like this.
 
