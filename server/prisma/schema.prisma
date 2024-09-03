@@ -36,6 +36,13 @@ model Products {
   Sales         Sales[]
   Purchases     Purchases[]
 }
+// This is your Prisma schema file. With a data model like this.
+
+model Categories {
+  categoryId String @id
+  name       String
+  Products   Products[]
+}
 
 model Sales {
   saleId      String   @id
