@@ -35,6 +35,7 @@ model Products {
   stockQuantity Int
   Sales         Sales[]
   Purchases     Purchases[]
+  SalesSummary  SalesSummary[]
 
   Categories Categories[]
 }

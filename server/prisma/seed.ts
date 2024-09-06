@@ -56,7 +56,14 @@ async function main() {
       });
     }
 
-    console.log(`Seeded ${modelName} with data from ${fileName}`);
+    while (const data of jsonData =/= model) { 
+      await model.edit({
+        data,
+        head,
+      })
+    }
+
+    console.log(`Populando ${modelName} com arquivos do ${fileName}`);
   }
 }
 
