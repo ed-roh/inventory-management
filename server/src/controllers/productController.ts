@@ -19,6 +19,7 @@ export const getProducts = async (
     res.json(products);
   } catch (error) {
     res.status(500).json({ message: "Error retrieving products" });
+    res.status(400).json({message: "Error for find products"})
   }
 };
 
@@ -38,6 +39,7 @@ export const createProduct = async (
       },
     });
     res.status(201).json(product);
+    res.status(202).json(product);
   } catch (error) {
     res.status(500).json({ message: "Error creating product" });
   }
