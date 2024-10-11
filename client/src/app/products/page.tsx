@@ -64,14 +64,14 @@ const Products = () => {
           className="flex items-center bg-blue-500 hover:bg-blue-700 text-gray-200 font-bold py-2 px-4 rounded"
           onClick={() => setIsModalOpen(true)}
         >
-          <PlusCircleIcon className="w-5 h-5 mr-2 !text-gray-200" /> Create
-          Product
+          <PlusCircleIcon className="w-5 h-5 mr-2.5 !!text-gray-200" />Criar Produto
         </button>
       </div>
 
       {/* BODY PRODUCTS LIST */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg-grid-cols-3 gap-10 justify-between">
         {isLoading ? (
+          //Create new loading 
           <div>Loading...</div>
         ) : (
           products?.map((product) => (

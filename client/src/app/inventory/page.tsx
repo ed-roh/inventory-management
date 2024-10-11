@@ -28,6 +28,13 @@ const columns: GridColDef[] = [
     type: "number",
   },
 ];
+//refatorar
+const columnsB : GridColDef[] = [
+  { field : "itensId", headName: "ID" , width: 120},
+  { field : "selectBoilerplate"},
+
+
+]
 
 const Inventory = () => {
   const { data: products, isError, isLoading } = useGetProductsQuery();

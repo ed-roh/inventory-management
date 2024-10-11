@@ -87,11 +87,32 @@ export default function StoreProvider({
   }
   const persistor = persistStore(storeRef.current);
 
+  
+
+  function logger = (store) =>(next) => {
+    const crashReporter = storeRef => next => action => {
+      try {
+        return next(action)
+      } catch (err) {
+        console.error('Encontramos um erro', err)
+        Raven.captureException(err, {
+          extra: {
+            action,
+            state: store.getState()
+          }
+        })
+        throw err
+      }
+    }
+  }
+
   return (
     <Provider store={storeRef.current}>
       <PersistGate loading={null} persistor={persistor}>
         {children}
       </PersistGate>
     </Provider>
+
+  
   );
 }

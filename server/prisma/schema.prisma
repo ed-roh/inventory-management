@@ -1,8 +1,3 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
-// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
-// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
 
 generator client {
   provider = "prisma-client-js"
@@ -13,10 +8,18 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+enum Role {
+  ADMIN
+  SELLER
+  MANAGER
+  DEVELOPER
+}
+
 model Users {
   userId String @id
   name   String
   email  String
+  role Role?
 }
 
 model Products {
@@ -27,6 +30,15 @@ model Products {
   stockQuantity Int
   Sales         Sales[]
   Purchases     Purchases[]
+
+  Categories Categories[]
+}
+// This is your Prisma schema file. With a data model like this.
+
+model Categories {
+  categoryId String @id
+  name       String
+  Products   Products[]
 }
 
 model Sales {
@@ -54,6 +66,8 @@ model Expenses {
   category  String
   amount    Float
   timestamp DateTime
+  //
+  product Products @relation(fields : [category], references: [name])
 }
 
 model SalesSummary {

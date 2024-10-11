@@ -58,6 +58,8 @@ CREATE TABLE "SalesSummary" (
     "totalValue" DOUBLE PRECISION NOT NULL,
     "changePercentage" DOUBLE PRECISION,
     "date" TIMESTAMP(3) NOT NULL,
+    "period" STATUS NOT NULL,
+    "CHANGE" DOUBLE PRECISION,
 
     CONSTRAINT "SalesSummary_pkey" PRIMARY KEY ("salesSummaryId")
 );
